@@ -1,6 +1,8 @@
 ## Author - Syed Muhib Ali Jaffri
 Machine Learning Practitioner
 
+Focus: Applied ML & Real-world Problems
+
 # Telco Customer Churn Prediction
 
 ## Project Overview
@@ -57,4 +59,5 @@ This project aims to predict whether a customer will churn (leave the company) u
 1. Clone this repository:  
    ```bash
    git clone <your-repo-link>
+
 
